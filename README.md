@@ -67,10 +67,5 @@ SRAVYA maganti
 GitHub: @sravyamaganti05 
 ---
 
-### How to add it to GitHub:
-1. Go to your repo
-2. Click **"Add file" → "Create new file"**
-3. Name it **`README.md`**
-4. Paste the content
-5. Click **"Commit changes"**
+
 
